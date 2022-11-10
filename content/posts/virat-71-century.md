@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-After a 1000-day drought. India's star batsman Virat Kohli has scored a century again. Long awaited, Kohli's 71st century came at the expense of the Afghanistan team in the Super 4 stage of the Asia Cup.
+After a 1021-day drought. India's star batsman Virat Kohli has scored a century again. Long awaited, Kohli's 71st century came at the expense of the Afghanistan team in the Super 4 stage of the Asia Cup.
 
 
 <!--more-->
